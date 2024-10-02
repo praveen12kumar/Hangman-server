@@ -2,62 +2,62 @@
     "words":[
         {
             "wordValue": "MANGO",
-            "wordHind":"A Yellow fruid of summer"
+            "wordHint":"A Yellow fruid of summer"
         },
     {
         "wordValue": "APPLE",
-        "wordHind":"A fruit that keeps doctor away"
+        "wordHint":"A fruit that keeps doctor away"
     },
     {
         "wordValue": "INDIA",
-        "wordHind":"A country of South Asia"
+        "wordHint":"A country of South Asia"
     },
     {
         "wordValue": "JAPAN",
-        "wordHind":"A country of Asia"
+        "wordHint":"A country of Asia"
     },
     {
         "wordValue": "LONDON",
-        "wordHind":"A City"
+        "wordHint":"A City"
     },{
         "wordValue": "PARIS",
-        "wordHind":"A City of Iffel Tower"
+        "wordHint":"A City of Iffel Tower"
     },
     {
         "wordValue":"PYTHON",
-        "wordHind":"A Programming Language"
+        "wordHint":"A Programming Language"
     },
     {
         "wordValue":"Elephant",
-        "wordHind":"A Large Animal"
+        "wordHint":"A Large Animal"
     },
     {
         "wordValue":"TIGER",
-        "wordHind":"A Natonal Animal of India"
+        "wordHint":"A Natonal Animal of India"
     },
     {
         "wordValue":"TELESCOPE",
-        "wordHind":"An astronominal device"
+        "wordHint":"An astronominal device"
     },
     {
         "wordValue":"KANGAROO",
-        "wordHind":"An Australian Animal"
+        "wordHint":"An Australian Animal"
     },
     {
         "wordValue":"OCEAN",
-        "wordHind":"An Large body of water"
+        "wordHint":"An Large body of water"
     },
     {
         "wordValue":"DIAMOND",
-        "wordHind":"A Gemstone"
+        "wordHint":"A Gemstone"
     },
     {
         "wordValue":"VALCONO",
-        "wordHind":"A geographic body of Lava"
+        "wordHint":"A geographic body of Lava"
     },
     {
         "wordValue":"GUITAR",
-        "wordHind":"A music instrument"
+        "wordHint":"A music instrument"
     }
     ]
 }
