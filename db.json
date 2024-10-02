@@ -1,0 +1,63 @@
+{
+    "words":[
+        {
+            "wordValue": "MANGO",
+            "wordHind":"A Yellow fruid of summer"
+        },
+    {
+        "wordValue": "APPLE",
+        "wordHind":"A fruit that keeps doctor away"
+    },
+    {
+        "wordValue": "INDIA",
+        "wordHind":"A country of South Asia"
+    },
+    {
+        "wordValue": "JAPAN",
+        "wordHind":"A country of Asia"
+    },
+    {
+        "wordValue": "LONDON",
+        "wordHind":"A City"
+    },{
+        "wordValue": "PARIS",
+        "wordHind":"A City of Iffel Tower"
+    },
+    {
+        "wordValue":"PYTHON",
+        "wordHind":"A Programming Language"
+    },
+    {
+        "wordValue":"Elephant",
+        "wordHind":"A Large Animal"
+    },
+    {
+        "wordValue":"TIGER",
+        "wordHind":"A Natonal Animal of India"
+    },
+    {
+        "wordValue":"TELESCOPE",
+        "wordHind":"An astronominal device"
+    },
+    {
+        "wordValue":"KANGAROO",
+        "wordHind":"An Australian Animal"
+    },
+    {
+        "wordValue":"OCEAN",
+        "wordHind":"An Large body of water"
+    },
+    {
+        "wordValue":"DIAMOND",
+        "wordHind":"A Gemstone"
+    },
+    {
+        "wordValue":"VALCONO",
+        "wordHind":"A geographic body of Lava"
+    },
+    {
+        "wordValue":"GUITAR",
+        "wordHind":"A music instrument"
+    }
+    ]
+}
