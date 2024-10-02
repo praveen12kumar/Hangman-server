@@ -2,7 +2,9 @@ const express = require("express");
 const PORT = 3000;
 const app = express();
 const path= require("path");
+const cors = require("cors");
 
+app.use(cors());
 
 
 app.get("/", (req, res)=>{
